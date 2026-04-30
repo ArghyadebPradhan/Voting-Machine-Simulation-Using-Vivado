@@ -1,5 +1,4 @@
 📌 Project Overview
-
 This project implements a Digital Voting Machine using Verilog HDL and simulates it in Xilinx Vivado. The system ensures one vote per user using an enable-based control mechanism and is designed for FPGA implementation (Artix-7).
 
 🎯 Key Features
@@ -60,6 +59,10 @@ Verilog HDL
 Xilinx Vivado
 
 Schematic:
+<img width="1574" height="831" alt="Screenshot 2026-04-30 045225" src="https://github.com/user-attachments/assets/72f13028-38db-4524-afae-d21f8da3cb0f" />
 
 
+Output Waveform:
+
+<img width="1581" height="884" alt="Screenshot 2026-04-30 045109" src="https://github.com/user-attachments/assets/c053e7fb-cf76-4ade-8cd7-035498e70908" />
 
